@@ -1,15 +1,20 @@
 Backend Auth Project
+
 Descripción
+
 Este proyecto es un backend que implementa un sistema de autenticación y autorización utilizando Node.js, Express.js y JWT. También incluye la gestión de productos mediante operaciones CRUD conectadas a una base de datos alojada en MongoDB Atlas. La API está documentada con Swagger para facilitar las pruebas y el desarrollo.
 ________________________________________
 Requisitos previos
+
 Asegúrate de tener instalado en tu máquina:
+
 •	Node.js (v16 o superior)
 •	npm (v8 o superior)
 •	MongoDB Atlas (para la base de datos remota)
 •	Postman o Swagger (opcional, para probar los endpoints)
 
 Instalación y configuración
+
 1.	Clona el repositorio:
 git clone https://github.com/tu-usuario/backend-auth-project.git
 cd backend-auth-project
